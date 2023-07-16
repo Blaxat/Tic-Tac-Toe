@@ -50,6 +50,7 @@ body {
   .winner-message {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
+    color: #742121;
     margin-bottom: 20px;
     animation: slideIn 1s ease-in-out;
   }
@@ -70,5 +71,9 @@ body {
   
   .play-again-btn:hover {
     background-color: #45a049;
+  }
+
+  .square:hover {
+    background-color: #e7d7d7;
   }
   
