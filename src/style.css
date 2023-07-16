@@ -58,7 +58,7 @@ body {
   .play-again-btn {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     border: none;
-    border-radius: 4px;
+    border-radius: 5px;
     background-color: #4caf50;
     color: #e4e7e8;
     padding: 8px 16px;
